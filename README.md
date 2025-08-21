@@ -1,0 +1,5 @@
+#descargar data set de https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000/data y dejar en el proyecto raiz
+#descomprimir y dejar la carpeta "HAM10000" en el proyecto raiz
+#python -m venv env
+#.\env\Scripts\activate
+#pip install -r requirements.txt
